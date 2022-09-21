@@ -20,7 +20,8 @@ Model the demand for shared bikes with the available independent variables to ca
 
 - <font size='2'>Understand the demand dynamics of a new market.</font>
 <br />
-<font size='2' color='grey'>**Notebook details**</font>
+  
+<font size='2' color='grey'><b>Notebook details</b></font>
 - <font size='2'>This notebook uses Linear Regression to predict the number of users based on available independent variables</font>
 - <font size='2'>Model is prepared by adding all variables and dropping one by one based on p-value</font>
 - <font size='2'>Model is validated against the prediction using automated RFE Model</font>
